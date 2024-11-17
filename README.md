@@ -1,6 +1,6 @@
-# Project Folder Tree Viewer
+# DAD_Project Folder Tree Viewer
 
-**ProjectTreeViewer** is a clean, customizable directory tree visualization tool with emoji support and custom file filtering.
+**DAD_ProjectTreeViewer** is a clean, customizable directory tree visualization tool with emoji support and custom file filtering.
 
 ---
 
